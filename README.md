@@ -4,7 +4,8 @@ This repo contains every tag that I've made for MCC. While most art in a usable 
 
 ## How to Install
 
-Just drag and drop each data folder into their respective editing kit directories
+Just drag and drop each tags folder into their respective editing kit directories
+The data folder contains the .tif files for the textures for those curious
 
 ## **Halo 3 Tags**
 These will all require [Oli's Halo 3 PBR Shaders](https://github.com/lolhalolol1/Halo-3-PBR) be installed in order for their materials to function properly
