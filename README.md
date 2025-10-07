@@ -30,7 +30,7 @@ These will all require [Oli's Halo 3 PBR Shaders](https://github.com/lolhalolol1
   - Silenced SMG
   - Automag
   - Flamethrower
-- PBR Shaders & bitmaps for Vanilla Vehicles that were given HD skins
+- ### PBR Shaders & bitmaps for Vanilla Vehicles that were given HD skins
   - Coming Soon
 
 ## **Halo 4 Tags**
