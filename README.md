@@ -26,7 +26,6 @@ These will all require [Oli's Halo 3 PBR Shaders](https://github.com/lolhalolol1
   - Shotgun
   - Magnum
   - Needler
-  - Plasma Pistol
   - SMG
   - Silenced SMG
   - Automag
